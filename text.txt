@@ -1,1 +1,1 @@
-Here is a simple text file. I am writing it in order to test git hub with VCS
+Here is a simple text file. I am writing it in order to test git hub with VCS. I am now editing it in GitHub online.
