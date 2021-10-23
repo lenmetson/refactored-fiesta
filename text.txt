@@ -1,1 +1,4 @@
-Here is a simple text file. I am writing it in order to test git hub with VCS. I am now editing it in GitHub online.
+Here is a simple text file. I am writing it in order to test git hub with visual code studio. I am now editing it in GitHub online.
+
+Making a change to a code. First we need to commit this change locally. The first thing we need to do is run `git diff`. Git diff will show the changes we have made to the code. We then run git status and we'll see the file.
+We then add 
